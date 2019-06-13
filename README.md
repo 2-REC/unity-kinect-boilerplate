@@ -1,2 +1,3 @@
-# unity-kinect-boilerplate
-Boilerplate project for using the Kinect in Unity.
+# UNITY KINECT BOILERPLATE
+
+Boilerplate project for using the Kinect in Unity.<br>
