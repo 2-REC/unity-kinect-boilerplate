@@ -25,6 +25,7 @@ public Transform head;
     private KinectInputManager _BodyManager;
 
 //// FULL BODY - BEGIN
+//TODO: should move to a separate class, and moved to the "Kinect/Scripts" directory
     private Dictionary<Kinect.JointType, Kinect.JointType> _BoneMap = new Dictionary<Kinect.JointType, Kinect.JointType>() {
         { Kinect.JointType.FootLeft, Kinect.JointType.AnkleLeft },
         { Kinect.JointType.AnkleLeft, Kinect.JointType.KneeLeft },
